@@ -1,11 +1,12 @@
-const logotext = "Hello Cyberpunks";
+const logotext = "Hello !";
+
 const meta = {
-    title: "Abhishek Ambasta Portfolio",
-    description: "I’m Abhishek Ambasta data scientist _ Full stack devloper,currently working in Berlin",
+    title: "Vikramaditya Singh Portfolio",
+    description: "I’m Vikramaditya Singh data scientist _ Full stack devloper,currently working in Berlin",
 };
 
 const introdata = {
-    title: "I’m Abhishek Ambasta",
+    title: "I’m Vikramaditya Singh",
     animated: {
         first: "I love coding",
         second: "I code cool websites",
@@ -92,7 +93,7 @@ const dataportfolio = [
 ];
 
 const contactConfig = {
-    YOUR_EMAIL: "abhishek.ambasta2021@vitstudent.ac.in",
+    YOUR_EMAIL: "vikramaditya.singh2021@vitstudent.ac.in",
     YOUR_FONE: "7070504379",
     description: "Send me a message for any query , I am here for any kind of Tech Help ",
     // creat an emailjs.com account 
